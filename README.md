@@ -23,7 +23,3 @@ This project predicts the selling price of used cars using an Artificial Neural 
 4. ANN model training
 5. Model evaluation
 
-## Future Improvements
-- Compare different model architectures.
-- Improve feature engineering.
-- Build a web application for price prediction.
