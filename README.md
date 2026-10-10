@@ -1,4 +1,3 @@
-# Used Car Price Prediction Using ANN
 
 ## Project Overview
 This project predicts the selling price of used cars using an Artificial Neural Network (ANN).
